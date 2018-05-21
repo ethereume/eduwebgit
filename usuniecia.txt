@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dodatkowa galaź
+=======
+Dodano następny coś 
+>>>>>>> nowy_naglowek
