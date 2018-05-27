@@ -6,10 +6,4 @@ asdasdsadasdas
 
 asd
 
-<<<<<<< HEAD
-Do zmiany Lepszy kommit 
-=======
-Do zmiany Lepszy kommit 
-
-Zmieniam znowu komit 
->>>>>>> nowy_naglowek
+Jakieś zmiany 
